@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SaifuL\\source\\repos\\PDF Name Filter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19FEA571-E259-4F05-B419-64FAC95F6422}|PDF Name Filter\\PDF Name Filter.csproj|c:\\users\\saiful\\source\\repos\\pdf name filter\\pdf name filter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19FEA571-E259-4F05-B419-64FAC95F6422}|PDF Name Filter\\PDF Name Filter.csproj|solutionrelative:pdf name filter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FEA571-E259-4F05-B419-64FAC95F6422}|PDF Name Filter\\PDF Name Filter.csproj|c:\\users\\saiful\\source\\repos\\pdf name filter\\pdf name filter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19FEA571-E259-4F05-B419-64FAC95F6422}|PDF Name Filter\\PDF Name Filter.csproj|solutionrelative:pdf name filter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\SaifuL\\source\\repos\\PDF Name Filter\\PDF Name Filter\\Form1.cs",
+              "RelativeDocumentMoniker": "PDF Name Filter\\Form1.cs",
+              "ToolTip": "C:\\Users\\SaifuL\\source\\repos\\PDF Name Filter\\PDF Name Filter\\Form1.cs*",
+              "RelativeToolTip": "PDF Name Filter\\Form1.cs*",
+              "ViewState": "AQIAAIUAAAAAAAAAAADwv6UAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T13:24:35.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SaifuL\\source\\repos\\PDF Name Filter\\PDF Name Filter\\Form1.cs",
+              "RelativeDocumentMoniker": "PDF Name Filter\\Form1.cs",
+              "ToolTip": "C:\\Users\\SaifuL\\source\\repos\\PDF Name Filter\\PDF Name Filter\\Form1.cs [Design]*",
+              "RelativeToolTip": "PDF Name Filter\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T13:18:06.013Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

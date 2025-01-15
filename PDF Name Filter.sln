@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDF Name Filter", "PDF Name Filter\PDF Name Filter.csproj", "{19FEA571-E259-4F05-B419-64FAC95F6422}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19FEA571-E259-4F05-B419-64FAC95F6422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19FEA571-E259-4F05-B419-64FAC95F6422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19FEA571-E259-4F05-B419-64FAC95F6422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19FEA571-E259-4F05-B419-64FAC95F6422}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {779C6AAE-873E-449A-9985-471227D14F22}
+	EndGlobalSection
+EndGlobal

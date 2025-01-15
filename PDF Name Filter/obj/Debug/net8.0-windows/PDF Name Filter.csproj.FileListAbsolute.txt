@@ -1,0 +1,20 @@
+C:\Users\SaifuL\source\repos\PDF Name Filter\PDF Name Filter\obj\Debug\net8.0-windows\PDF Name Filter.csproj.AssemblyReference.cache
+C:\Users\SaifuL\source\repos\PDF Name Filter\PDF Name Filter\obj\Debug\net8.0-windows\PDF_Name_Filter.Form1.resources
+C:\Users\SaifuL\source\repos\PDF Name Filter\PDF Name Filter\obj\Debug\net8.0-windows\PDF Name Filter.csproj.GenerateResource.cache
+C:\Users\SaifuL\source\repos\PDF Name Filter\PDF Name Filter\obj\Debug\net8.0-windows\PDF Name Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SaifuL\source\repos\PDF Name Filter\PDF Name Filter\obj\Debug\net8.0-windows\PDF Name Filter.AssemblyInfoInputs.cache
+C:\Users\SaifuL\source\repos\PDF Name Filter\PDF Name Filter\obj\Debug\net8.0-windows\PDF Name Filter.AssemblyInfo.cs
+C:\Users\SaifuL\source\repos\PDF Name Filter\PDF Name Filter\obj\Debug\net8.0-windows\PDF Name Filter.csproj.CoreCompileInputs.cache
+C:\Users\SaifuL\source\repos\PDF Name Filter\PDF Name Filter\bin\Debug\net8.0-windows\PDF Name Filter.exe
+C:\Users\SaifuL\source\repos\PDF Name Filter\PDF Name Filter\bin\Debug\net8.0-windows\PDF Name Filter.deps.json
+C:\Users\SaifuL\source\repos\PDF Name Filter\PDF Name Filter\bin\Debug\net8.0-windows\PDF Name Filter.runtimeconfig.json
+C:\Users\SaifuL\source\repos\PDF Name Filter\PDF Name Filter\bin\Debug\net8.0-windows\PDF Name Filter.dll
+C:\Users\SaifuL\source\repos\PDF Name Filter\PDF Name Filter\bin\Debug\net8.0-windows\PDF Name Filter.pdb
+C:\Users\SaifuL\source\repos\PDF Name Filter\PDF Name Filter\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\SaifuL\source\repos\PDF Name Filter\PDF Name Filter\bin\Debug\net8.0-windows\itextsharp.dll
+C:\Users\SaifuL\source\repos\PDF Name Filter\PDF Name Filter\obj\Debug\net8.0-windows\PDF Name.4FDA05E5.Up2Date
+C:\Users\SaifuL\source\repos\PDF Name Filter\PDF Name Filter\obj\Debug\net8.0-windows\PDF Name Filter.dll
+C:\Users\SaifuL\source\repos\PDF Name Filter\PDF Name Filter\obj\Debug\net8.0-windows\refint\PDF Name Filter.dll
+C:\Users\SaifuL\source\repos\PDF Name Filter\PDF Name Filter\obj\Debug\net8.0-windows\PDF Name Filter.pdb
+C:\Users\SaifuL\source\repos\PDF Name Filter\PDF Name Filter\obj\Debug\net8.0-windows\PDF Name Filter.genruntimeconfig.cache
+C:\Users\SaifuL\source\repos\PDF Name Filter\PDF Name Filter\obj\Debug\net8.0-windows\ref\PDF Name Filter.dll
